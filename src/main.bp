@@ -1,0 +1,45 @@
+{
+  "positions" : [ {
+    "id" : "/start",
+    "name" : "1",
+    "actionTitles" : [ null, null ],
+    "x" : 200,
+    "y" : 644
+  }, {
+    "id" : "/test",
+    "name" : "2",
+    "actionTitles" : [ null ],
+    "x" : 632,
+    "y" : 615
+  }, {
+    "id" : "/test/test",
+    "name" : "3",
+    "actionTitles" : [ null ],
+    "x" : 386,
+    "y" : 398
+  }, {
+    "id" : "/test/test2",
+    "name" : "4",
+    "actionTitles" : [ null ],
+    "x" : 1272,
+    "y" : 557
+  }, {
+    "id" : "/test/Exit",
+    "name" : "5",
+    "actionTitles" : [ null, null ],
+    "x" : 1272,
+    "y" : 755
+  }, {
+    "id" : "/test/CatchAll",
+    "name" : "6",
+    "actionTitles" : [ null ],
+    "x" : 1300,
+    "y" : 418
+  }, {
+    "id" : "/CatchAll",
+    "name" : "7",
+    "actionTitles" : [ null ],
+    "x" : 200,
+    "y" : 200
+  } ]
+}

@@ -1,0 +1,26 @@
+name: echo-template
+
+language: en
+botEngine: v2
+
+sts:
+    noMatchThreshold: 0.2
+caila:
+    noMatchThreshold: 0.2
+
+entryPoint:
+  - main.sc
+
+messages:
+  onError:
+    defaultMessage: ERROR
+
+tests:
+  include:
+    - test.xml
+    
+nlp:
+  nbest: 10    
+    
+    
+
