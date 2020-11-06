@@ -1,0 +1,17 @@
+{
+  "project" : {
+    "id" : "junction2020_prod-248610429-VwF",
+    "name" : "junction2020_prod-248610429-VwF",
+    "folder" : "/"
+  },
+  "settings" : {
+    "language" : "en",
+    "spellingCorrection" : false,
+    "classificationAlgorithm" : "sts",
+    "timezone" : "UTC",
+    "shared" : false
+  },
+  "intents" : [ ],
+  "entities" : [ ],
+  "enabledSystemEntities" : [ "duckling.number", "duckling.time", "duckling.duration", "duckling.phone-number", "duckling.email", "duckling.url" ]
+}

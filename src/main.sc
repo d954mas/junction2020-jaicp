@@ -1,9 +1,5 @@
 require: patterns.sc
-require: contexts/battle.sc
-require: contexts/hero.sc
 require: contexts/main.sc
-require: contexts/map.sc
-require: contexts/tutorial.sc
 
 init:
    bind("postProcess", function(){
